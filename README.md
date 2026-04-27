@@ -1,31 +1,25 @@
-Español:
-# Juego de combate en Python
-
-Este es un proyecto simple desarrollado en Python que simula un sistema de combate por turnos.
-
-## Funcionalidades
-- Sistema de turnos
-- Ataques aleatorios
-- Barra de vida
-
-## Tecnologías
-- Python
-
-## Autor
-Ignacio Arias
-
-Ingles:
 # Combat Game in Python
 
-This is a simple project developed in Python that simulates a turn-based combat system.
+A simple turn-based combat game developed in Python. This project simulates a basic battle system between two characters using random attacks and health management.
 
-## Features
-- Turn-based system
-- Random attacks
-- Health bar
+##  Features
+- Turn-based combat system
+- Randomized attack damage
+- Health tracking system
+- Console-based interaction
 
-## Technologies
+##  What I learned
+- Control flow (if/else, loops)
+- Functions and code organization
+- Use of Python standard libraries like `random`
+- Basic game logic design
+
+##  Technologies
 - Python
 
-## Author
-Ignacio Arias
+##  How to run
+1. Make sure you have Python installed
+2. Download the file
+3. Run in terminal:
+```bash
+python nombre_del_archivo.py
